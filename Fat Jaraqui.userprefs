@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\Android\AndroidManifest.xml">
+    <Files>
+      <File FileName="Assets\Scripts\Ancora.cs" Line="20" Column="4" />
+      <File FileName="Assets\Scripts\confirmbutton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuInGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\puraque.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BgOffSet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AnimationJaraqui.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TutorialAlerta.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Listener.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\ControleAds.cs" Line="16" Column="3" />
+      <File FileName="Assets\Scripts\ADS.cs" Line="12" Column="3" />
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="24" Column="96" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
